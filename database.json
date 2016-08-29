@@ -1,0 +1,47 @@
+[
+    {
+        "nome"      : "Maria do Carmo",
+        "email"     : "maria@email.com.br",
+        "sexo"      : "f",
+        "idade"     : 40,
+        "endereco"  : "rua A",
+        "telefone"  : "1111-1111",
+        "cpf"       : "111.111.111-11" 
+    },
+    {
+        "nome"      : "João da Silva",
+        "email"     : "joao@email.com.br",
+        "sexo"      : "m",
+        "idade"     : 25,
+        "endereco"  : "rua B",
+        "telefone"  : "2222-2222",
+        "cpf"       : "222.222.222-22" 
+    },
+    {
+        "nome"      : "Joaquim Gomes",
+        "email"     : "joaquim@email.com.br",
+        "sexo"      : "m",
+        "idade"     : 35,
+        "endereco"  : "rua C",
+        "telefone"  : "3333-3333",
+        "cpf"       : "333.333.333-33" 
+    },
+    {
+        "nome"      : "Luiza Furlan",
+        "email"     : "luiza@email.com.br",
+        "sexo"      : "f",
+        "idade"     : 21,
+        "endereco"  : "rua D",
+        "telefone"  : "4444-4444",
+        "cpf"       : "444.444.444-44" 
+    },
+    {
+        "nome"      : "Caio Martins",
+        "email"     : "caio@email.com.br",
+        "sexo"      : "m",
+        "idade"     : 27,
+        "endereco"  : "rua E",
+        "telefone"  : "5555-5555",
+        "cpf"       : "555.555.555-55" 
+    }
+]
