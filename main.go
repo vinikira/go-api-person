@@ -11,10 +11,10 @@ type person struct {
 	Nome 		string `json:"nome"`
 	Email 		string `json:"email"`
 	Sexo 		string `json:"sexo"`
-	Idade 	    int    `json:"idade"`
+	Idade 	        int    `json:"idade"`
 	Endereco 	string `json:"endereco"`
 	Telefone 	string `json:"telefone"`
-	Cpf 	    string `json:"cpf"`
+	Cpf 	        string `json:"cpf"`
 }
 
 type response struct {
